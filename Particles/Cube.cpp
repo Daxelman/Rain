@@ -1,5 +1,4 @@
 #include "Cube.h"
-#define GLEW_STATIC
 
 #include <SFML/Graphics.hpp>
 #include <GL/glew.h>

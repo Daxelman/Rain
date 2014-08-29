@@ -1,7 +1,5 @@
-#define GLEW_STATIC
-
-#include <SFML/Graphics.hpp>
 #include <GL/glew.h>
+#include <SFML/Graphics.hpp>
 #include <fstream>
 #include <vector>
 #include <sstream>
